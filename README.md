@@ -1,2 +1,2 @@
 # NutriFindr
-Nutrition diary &amp; Recipe Findr
+Nutrition diary for pregnant women &amp; Recipe Findr
